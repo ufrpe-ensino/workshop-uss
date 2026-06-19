@@ -1,6 +1,6 @@
-**WORKSHOP · HANDS-ON**
+# WORKSHOP · HANDS-ON
 
-**Desenvolvimento de Aplicações com IA**
+## Desenvolvimento de Aplicações com IA
 
 VIII Congreso Internacional de Ingeniería y Arquitectura
 
@@ -13,7 +13,7 @@ Facultad de Ingeniería, Arquitectura y Urbanismo (FIAU)
 - [https://stitch.withgoogle.com/](https://stitch.withgoogle.com/)  
 - [https://aistudio.google.com/](https://aistudio.google.com/) 
 
-  **Parte 1 — Do conceito ao primeiro app  ·  60 min**
+## Parte 1 — Do conceito ao primeiro app  ·  60 min
 
 | 5 min | Abertura —  Introdução do workshop e participantes |
 | :---- | :---- |
@@ -22,7 +22,7 @@ Facultad de Ingeniería, Arquitectura y Urbanismo (FIAU)
 | **20 min** | **Atividade 1 — Seu primeiro protótipo**  —  definir o problema e gerar o protótipo da aplicação (funcionalidades, fluxo de telas, etc) |
 | **10 min** | **Pausa**   |
 
-  **Parte 2 — Do protótipo ao app apresentável  ·  60 min**
+## Parte 2 — Do protótipo ao app apresentável  ·  60 min
 
 | 5 min | Retomada e troubleshooting  —  destravar o que ficou da Sessão 1 |
 | :---- | :---- |
